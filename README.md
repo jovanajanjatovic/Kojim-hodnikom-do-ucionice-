@@ -3,5 +3,5 @@ Projekat koji će učenicima Šabačke gimnazije pomoći da pronađu najoptimaln
 - sajt Šabačke gimnazije: http://sabackagimnazija.edu.rs/
 - korišćeni jezik: C++
 - korišćeni program: Code::Blocks
-- oblst: Grafovi
+- oblast: Grafovi
 - korišćeni algoritmi: Dijkstrin algoritam za pronalaženje najkraćeg puta od tačke A (startne učionice) do tačke B (ciljne učionice)
